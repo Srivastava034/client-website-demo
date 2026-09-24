@@ -1,0 +1,6 @@
+{
+  "name": "Computer Empire - Build Your Dream PC",
+  "description": "High-performance custom assembled PCs, components, and top-tier gaming peripherals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
